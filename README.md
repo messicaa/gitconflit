@@ -1,3 +1,3 @@
-# gitconflit
+REMOTE
 
 regler conflit github git
