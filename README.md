@@ -1,3 +1,3 @@
-# gitconflit
+LOCAL
 
 regler conflit github git
